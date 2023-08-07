@@ -1,7 +1,7 @@
 # Audio, Graphics and Plugins folders
 Audio/
 Graphics/
-Plugins/
+#Plugins/
 
 # Data folder, but not Data/Scripts folder or messages_core.dat
 Data/*
